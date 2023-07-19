@@ -1,0 +1,2 @@
+This is the file containing details of the project.
+I have made hulu clone 
